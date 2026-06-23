@@ -20,12 +20,12 @@
 
 ## Rotas
 
-[ ] - Rota de login
-[ ] - Rota para cadastrar uma ORG organização que inclua endereço e número de WhatsApp
-[ ] - Rota para cadastrar um pet, garantindo que ele seja associado a uma ORG
-[ ] - Rota para listar pets, exigindo a cidade como parâmetro obrigatório
-[ ] - Rota para visualizar os detalhes de um pet especifico
-[ ] - Implementar a funcionalidade de filtros opcionais por caracteristicas dos pets na listagem
-[ ] - Garatir que o acesso de adminstrador da ORG seja restrito a usuários logados
-[ ] - Aplicar os princípios SOLID durante o desenvolvimento da estrutura da API
-[ ] - Criar testes para validar as funcionalidade e regras de negócio
+- [ ] - Rota de login
+- [ ] - Rota para cadastrar uma ORG organização que inclua endereço e número de WhatsApp
+- [ ] - Rota para cadastrar um pet, garantindo que ele seja associado a uma ORG
+- [ ] - Rota para listar pets, exigindo a cidade como parâmetro obrigatório
+- [ ] - Rota para visualizar os detalhes de um pet especifico
+- [ ] - Implementar a funcionalidade de filtros opcionais por caracteristicas dos pets na listagem
+- [ ] - Garatir que o acesso de adminstrador da ORG seja restrito a usuários logados
+- [ ] - Aplicar os princípios SOLID durante o desenvolvimento da estrutura da API
+- [ ] - Criar testes para validar as funcionalidade e regras de negócio
