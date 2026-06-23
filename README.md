@@ -1,5 +1,7 @@
 ## App Find a Friend
 
+Nesse projeto você irá criar a API do FindAFriend, um sistema de adoção de animais, utilizando os princípios SOLID e testes. A API deve permitir o cadastro de ORGs e pets, além de listar animais por cidade, com filtros por características. O contato para adoção será feito via WhatsApp diretamente com a ORG responsável pelo pet.
+
 ## Funcionalidades da Aplicação
 
 - O cadastro de um pet
